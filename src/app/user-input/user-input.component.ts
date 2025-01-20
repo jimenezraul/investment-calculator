@@ -1,4 +1,4 @@
-import { Component, EventEmitter, output, Output, signal } from '@angular/core';
+import { Component, output, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import type { InputModel } from './input-model'
 
